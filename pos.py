@@ -126,7 +126,7 @@ def menu():
 
 def help():
 	print "\nList Of Commands:"
-	print "--------------------------------+"
+	print "---------------------------------"
 	print "help - Opens the Help Menu"
 	print "calculate or calculator - Opens Calculator"
 	print "time or date - Opens Clock"
